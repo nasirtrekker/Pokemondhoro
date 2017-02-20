@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokemondhoro/PokedexViewController.swift"
+            timestampString = "509283751.011735"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokemondhoro/ViewController.swift"
+            timestampString = "509283751.011735"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokemondhoro.ViewController.mapView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.MKMapView&gt;"
+                  moduleName = "Pokemondhoro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Pokemondhoro/Pokemondhoro/ViewController.swift"
+                  timestampString = "509248488.067016"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokemondhoro.ViewController.mapView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.MKMapView&gt;"
+                  moduleName = "Pokemondhoro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Pokemondhoro/Pokemondhoro/ViewController.swift"
+                  timestampString = "509248488.071887"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokemondhoro.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Pokemondhoro.ViewController"
+                  moduleName = "Pokemondhoro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Pokemondhoro/Pokemondhoro/ViewController.swift"
+                  timestampString = "509248488.074652"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokemondhoro.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Pokemondhoro.ViewController&gt;"
+                  moduleName = "Pokemondhoro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Pokemondhoro/Pokemondhoro/ViewController.swift"
+                  timestampString = "509248488.076762"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
